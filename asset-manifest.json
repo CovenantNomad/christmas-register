@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/christmas-register/static/js/main.c1454dcf.js",
+    "main.js": "/christmas-register/static/js/main.8b397767.js",
     "static/media/bgImage02.jpeg": "/christmas-register/static/media/bgImage02.2f9953246b419d789921.jpeg",
     "static/media/thumbnail02.jpeg": "/christmas-register/static/media/thumbnail02.72002178aa832ac6431b.jpeg",
     "static/media/thumbnail01.jpeg": "/christmas-register/static/media/thumbnail01.9b5ebc19992ad43fdd2f.jpeg",
@@ -8,9 +8,9 @@
     "static/media/confirmedImage02.svg": "/christmas-register/static/media/confirmedImage02.e6da907889244280890356d3e59255d1.svg",
     "index.html": "/christmas-register/index.html",
     "static/media/cross.svg": "/christmas-register/static/media/cross.a349f9627ffc3c48084fdbc53d14da83.svg",
-    "main.c1454dcf.js.map": "/christmas-register/static/js/main.c1454dcf.js.map"
+    "main.8b397767.js.map": "/christmas-register/static/js/main.8b397767.js.map"
   },
   "entrypoints": [
-    "static/js/main.c1454dcf.js"
+    "static/js/main.8b397767.js"
   ]
 }
